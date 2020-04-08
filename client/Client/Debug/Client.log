@@ -1,0 +1,5 @@
+﻿  ClientDlg.cpp
+d:\mfc_workspace\myftp\client\client\clientdlg.cpp(113): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\mfc_workspace\myftp\client\client\clientdlg.cpp(365): warning C4715: “CClientDlg::ShowFileListThread”: 不是所有的控件路径都返回值
+  Client.vcxproj -> D:\MFC_workspace\MyFtp\server\WSA\Debug\Client.exe
